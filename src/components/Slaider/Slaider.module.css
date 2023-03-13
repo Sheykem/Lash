@@ -43,11 +43,16 @@
   }
   .title {
     font-size: 14px;
+    padding-bottom: 15px;
   }
-  p {
+  .slider p {
     position: relative;
     bottom: 25px;
     font-size: 14px;
+  }
+  .slider {
+    position: relative;
+    height: 130px;
   }
 
 }

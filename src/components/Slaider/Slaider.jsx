@@ -21,7 +21,7 @@ const Slaider = () => {
   return (
     <div className={s.slider}>
       <div className={s.text}>
-        <p className={s.title}>Обучение:</p>
+        <h4 className={s.title}>Обучение:</h4>
         <p>От Alines Lash Studio</p>
         <p>Базовый курс: "Lashmaker с нуля"</p>
 
